@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/4077759/163690033-1c438867-e47b-4b0e-881e-667b61d58428.png)
 
-## Samples showcasing use cases for the net-dynamic-api generator 
+## Samples showcasing use cases for the [net-dynamic-api generator](https://github.com/DeeJayTC/net-dynamic-api)
 
 | Sample | Link | 
 |--------|------|
