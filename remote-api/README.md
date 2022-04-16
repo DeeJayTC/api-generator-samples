@@ -9,6 +9,7 @@
 dotnet restore
 dotnet run
 ```
+Your API Spec is available under https://localhost:xxxx/swagger
 
 # Infos:
 The sample is using an InMemory Database, the API is generated from a remote JSON Schema. 
