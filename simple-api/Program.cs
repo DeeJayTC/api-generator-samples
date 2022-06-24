@@ -14,7 +14,7 @@ builder.Services.AddApiGeneratorServices()
                 .AddSwagger(true)
                 .AddDataContextSQL()
                 .AddOData()
-                .AddAssemblyWithODataFromUri("https://raw.githubusercontent.com/DeeJayTC/net-dynamic-api/test-remote-api/sample/SampleAppJson/ApiDefinition.json", "");
+                .AddAssemblyWithOData(Assembly.GetExecutingAssembly());
 
     
     

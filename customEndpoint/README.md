@@ -12,7 +12,8 @@ dotnet run
 Your API Spec is available under https://localhost:xxxx/swagger
 
 # Infos:
-The sample is using an SQL Database, the API is generated from a remote JSON Schema. 
+The sample is using an SQL Database, it demonstrates how a custom controller can be added to provide
+custom functionality alongside the generated API. 
 
 Just change AppSettings.json:
 

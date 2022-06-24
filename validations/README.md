@@ -12,9 +12,11 @@ dotnet run
 Your API Spec is available under https://localhost:xxxx/swagger
 
 # Infos:
-The sample is using an SQL Database, the API is generated from a remote JSON Schema. 
+The sample is using an SQL Database, this sample demonstrates how our Hooks can be used to add custom validations
 
-Just change AppSettings.json:
+
+
+DB Setup Just change AppSettings.json:
 
 ```json
     "Database": {

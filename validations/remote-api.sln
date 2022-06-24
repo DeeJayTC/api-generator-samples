@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remote-api", "remote-api.csproj", "{BE2A7B09-14D8-4B30-92E2-C9A6AF20C29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2A7B09-14D8-4B30-92E2-C9A6AF20C29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2A7B09-14D8-4B30-92E2-C9A6AF20C29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2A7B09-14D8-4B30-92E2-C9A6AF20C29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2A7B09-14D8-4B30-92E2-C9A6AF20C29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0E08FD-C9C8-4E87-AED0-3FB347333EFE}
+	EndGlobalSection
+EndGlobal
