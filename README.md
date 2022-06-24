@@ -5,3 +5,6 @@
 | Sample | Link | 
 |--------|------|
 | Generating an API from a remote JSON Source       | [Remote API](https://github.com/DeeJayTC/api-generator-samples/tree/main/remote-api)     | 
+| A simple API Example       | [Simple API](https://github.com/DeeJayTC/api-generator-samples/tree/main/simple-api)     | 
+| How to add custom validations       | [Validations](https://github.com/DeeJayTC/api-generator-samples/tree/main/validations)     | 
+| How to manually add a custom endpoint and query data      | [Custom Endpoint](https://github.com/DeeJayTC/api-generator-samples/tree/main/customEndpoint)     | 
